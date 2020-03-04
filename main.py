@@ -59,7 +59,7 @@ def main():
                            "2. Functions as Objects\n"
                            "3. Anonymous Functions\n"
                            "4. List Comprehensions\n"
-                           "5. Valid Email with Regex"
+                           "5. Valid Email with Regex\n"
                            "Exercise: "))
     except ValueError:
         print("ERROR: Please enter a number...\n")
